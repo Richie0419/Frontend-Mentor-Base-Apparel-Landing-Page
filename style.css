@@ -103,7 +103,7 @@ form input::placeholder{
 .error-img{
     position: absolute;
     right: 230px;
-    bottom: 14px;
+    bottom: 30px;
     display: none;
 }
 
